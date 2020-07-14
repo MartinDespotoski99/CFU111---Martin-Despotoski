@@ -2,5 +2,27 @@ body{
 
     background-color: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
+}
 
+/* header and structure */
+
+/* sections */
+section{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.intro {
+    background-color: pink;
+}
+
+.content {
+    background-color: lightcoral;
+}
+
+.final {
+    background-color: lightseagreen;
 }
